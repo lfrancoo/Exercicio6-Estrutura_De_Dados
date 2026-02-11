@@ -1,7 +1,7 @@
-package controller;
+package view;
 
 import java.util.Scanner;
-import view.SomaRecursiva;
+import controller.SomaRecursiva;
 
 public class Main {
 
